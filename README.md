@@ -1,1 +1,1 @@
-# odin-recipes
+we r going to create a website from scratch so keep up the good work
